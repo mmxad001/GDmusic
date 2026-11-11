@@ -18,13 +18,7 @@ https://cdn.jsdelivr.net/gh/mmxad001/GDmusic@main/plugins.json
 
 添加订阅后，可以在插件页通过「更新订阅」获取后续版本。
 
-## 更新插件
-
-1. 修改 `dist/gdstudio-music.js` 里的 `version`，例如 `1.0.1`。
-2. 同步更新 `plugins.json` 里的 `version`。
-3. 提交并推送到 GitHub。
-4. 在 MusicFree 中点击「更新订阅」。
 
 ## 注意
 
-插件数据来自 GD Studio API，仅供学习交流，请勿用于商业用途。
+插件数据来自GD音乐台(music.gdstudio.xyz) GD Studio API，仅供学习交流，请勿用于商业用途。
