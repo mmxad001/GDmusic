@@ -4,6 +4,6 @@
         "version": "1.0.0",
         "description": "基于 GD Studio API，支持多音源搜索、播放、歌词封面",
         "author": "GD Studio",
-        "js": "https://cdn.jsdelivr.net/gh/mmxad001/GDmusic@main/gdstudio‑music.js"
+        "js": "https://cdn.jsdmirror.com/gh/mmxad001/GDmusic@main/gdstudio-music.js"
     }
 ]
