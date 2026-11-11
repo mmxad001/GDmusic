@@ -238,7 +238,7 @@ const plugin = {
     platform: "GD音乐台",
     version: "1.0.0",
     srcUrl:
-        "https://raw.githubusercontent.com/mmxad001/GDmusic/main/dist/gdstudio-music.js",
+        "https://cdn.jsdelivr.net/gh/mmxad001/GDmusic@main/gdstudio-music.js",
     author: "GD Studio",
     description: [
         "基于 GD Studio 官方 API 实现：搜索 / 播放 / 歌词 / 封面。",

@@ -4,7 +4,7 @@
     {
       "name": "GD音乐台",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/mmxad001/GDmusic/main/dist/gdstudio-music.js"
+      "url": "https://cdn.jsdelivr.net/gh/mmxad001/GDmusic@main/gdstudio-music.js"
     }
   ]
 }

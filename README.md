@@ -7,13 +7,13 @@
 在 MusicFree 的「插件设置」中选择「从网络安装插件」，填入：
 
 ```text
-https://raw.githubusercontent.com/mmxad001/GDmusic/main/dist/gdstudio-music.js
+https://cdn.jsdelivr.net/gh/mmxad001/GDmusic@main/gdstudio-music.js
 ```
 
 或者添加插件订阅：
 
 ```text
-https://raw.githubusercontent.com/mmxad001/GDmusic/main/plugins.json
+https://cdn.jsdelivr.net/gh/mmxad001/GDmusic@main/plugins.json
 ```
 
 添加订阅后，可以在插件页通过「更新订阅」获取后续版本。
