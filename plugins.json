@@ -1,0 +1,10 @@
+{
+  "desc": "GD Studio MusicFree 插件订阅",
+  "plugins": [
+    {
+      "name": "GD音乐台",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/mmxad001/GDmusic/main/dist/gdstudio-music.js"
+    }
+  ]
+}
